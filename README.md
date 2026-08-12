@@ -4,9 +4,9 @@
 ---
 
 ### What I'm building
-I like building things from the ground up — schedulers, proxies, transcoders, fintech backends — usually in Go, with real SQL instead of hiding behind an ORM.
+I like building things from the ground up — schedulers, proxies, transcoders, fintech backends — usually in Go.
 
-- Currently building **go_sql** — a Go fintech/payroll backend with Redis-backed job scheduling, idempotent transfers, and batch disbursement logic
+- Currently building a Go fintech/payroll backend with Redis-backed job scheduling, idempotent transfers, and batch disbursement logic
 - Exploring AI-powered backends — RAG pipelines, embeddings, and LLM-integrated APIs
 - Comfortable across the stack: Gin, Echo, pgx, sqlc, Redis, PostgreSQL, Next.js
 
@@ -18,7 +18,7 @@ Go · TypeScript · PostgreSQL · Redis · Next.js · MongoDB · Docker
 - **[Sensory](https://github.com/EsanSamuel/sensory)** — Real-time logging & monitoring system streaming structured logs to a live dashboard
 - **[Sensory Reverse Proxy](https://github.com/EsanSamuel/sensory-reverse-proxy)** — Go-based reverse proxy & load balancer built for Sensory
 - **[Go HLS Transcoder](https://github.com/EsanSamuel/go-hls-transcoder)** — Adaptive HLS video transcoding service (144p–1080p) with FFmpeg, streaming to S3-compatible storage
-- **[Team Management App](https://github.com/EsanSamuel/Team-management-app)** — TypeScript app for managing teams and workflows
+- **[Synccorp](https://github.com/EsanSamuel/Team-management-app)** — TypeScript app for managing teams and workflows
 
 ### Connect with me
 - Portfolio: [synccorp.vercel.app](https://synccorp.vercel.app)
